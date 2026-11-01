@@ -1,0 +1,12 @@
+{
+  "message": "Welcome {mention} to **{server}**!",
+  "embed": {
+    "enabled": true,
+    "title": "Welcome, {user}!",
+    "description": "We're glad you're here. You are member #{memberCount}.",
+    "color": "#5865F2",
+    "includeAvatar": true,
+    "imageUrl": "",
+    "footer": "Enjoy your stay!"
+  }
+}
